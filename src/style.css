@@ -3,18 +3,19 @@
   accent-color: #ccc;
   text-align: center;
 }
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  outline: 1px dashed crimson;
+  /* outline: 1px dashed crimson; */
 }
 
 input {
   font-family: inherit;
   font-size: inherit;
   outline: none;
-  border: 1.5px solid #ccc;
-  border-radius: 15px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
   padding: 5px 15px;
 }
